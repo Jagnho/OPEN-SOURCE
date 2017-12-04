@@ -1,8 +1,8 @@
 # FINAL PROJECT FOR OSS ENGINEERING CLASS
 # OPEN-SOURCE SOFTWARE ENGINEERING QUIZ GAME
 
-#NOTE1: This program can't be used in commercial way
-#NOTE2: To test things that we learned in OSS Class we used 2 ways to build program: Make and CMake
+NOTE1: This program can't be used in commercial way
+NOTE2: To test things that we learned in OSS Class we used 2 ways to build program: Make and CMake
 #You can test your Open-Source Software Engineering knowledges through this simple OSS Engineering Quiz game
 
 #This version is our lastly edited and currently working program on Linux Ubuntu. 
