@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/clyde/Documents/Quiz/lib/mylib.h
+stdio.h
+-
+ctype.h
+-
+stdlib.h
+-
+time.h
+-
+unistd.h
+-
+termios.h
+-
+string.h
+-
+
+/home/clyde/Documents/Quiz/lib/src/Display_WriteScore.c
+stdio.h
+-
+ctype.h
+-
+stdlib.h
+-
+time.h
+-
+unistd.h
+-
+termios.h
+-
+string.h
+-
+../mylib.h
+/home/clyde/Documents/Quiz/lib/mylib.h
+

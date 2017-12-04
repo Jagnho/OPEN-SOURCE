@@ -1,0 +1,4 @@
+/home/clyde/Documents/Quiz/build/CMakeFiles/rebuild_cache.dir
+/home/clyde/Documents/Quiz/build/CMakeFiles/edit_cache.dir
+/home/clyde/Documents/Quiz/build/CMakeFiles/main.dir
+/home/clyde/Documents/Quiz/build/CMakeFiles/my.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/Quiz.dir/src/main.c.o CMakeFiles/Quiz.dir/src/Questions.c.o  -o Quiz  -L../lib -rdynamic -libQuiz -Wl,-rpath,../lib 
